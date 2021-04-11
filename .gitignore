@@ -1,0 +1,8 @@
+.vscode/
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+*.pkl
+*.torch
+*.pb
+ffcc_keras_model/
