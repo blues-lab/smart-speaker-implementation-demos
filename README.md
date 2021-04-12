@@ -1,4 +1,6 @@
-# Run the jupyter notebooks
+# Blues Smart Speakers Demo
+
+### Running the Notebooks
 
 The smark speaker demo shows Noise Reduction, Audio Fingerprinting, Wake word detection, Vad detection, and Text Classification
 
